@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "XGM_OCuLink")(type "KiCad")(uri "${KIPRJMOD}/lib/XGM_OCuLink.pretty")(options "")(descr ""))
+)
